@@ -3,7 +3,7 @@
 **/settings/Testnet.toml
 .cache/**
 history.txt
-
+node_modules
 logs
 *.log
 npm-debug.log*
@@ -13,4 +13,4 @@ costs-reports.json
 
 
 
-*.ps1
+*.sh
